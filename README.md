@@ -1,9 +1,9 @@
 # Freemarker
-A Spring Boot template engine, Freemarker,  list example.
+A Spring Boot template engine list example.
 
 # Set-up
 
-Downlod: https://start.spring.io/
+  Downlod: https://start.spring.io/
 Spring Boot 2.1.8 RELEASE
 Freemarker = java based template engine package from Apache
 Spring Web
