@@ -1,16 +1,19 @@
 # Freemarker
 A Spring Boot template engine list example.
 
-# Set-up
+## Download
 
-  Downlod: https://start.spring.io/
-Spring Boot 2.1.8 RELEASE
-Freemarker = java based template engine package from Apache
-Spring Web
+    https://start.spring.io/
+    Spring Boot 2.1.8 RELEASE
+    Freemarker = java based template engine package from Apache
+    Spring Web
 
-# Run
+## Run on command line :  
+ 
+    mvn spring-boot:run 
 
-Terminal:  mvn springboot:run
-Browser: http://localhost:8080/list 
+## In browser - expected list of students
+   
+   http://localhost:8080/list 
 
 
