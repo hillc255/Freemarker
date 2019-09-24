@@ -1,5 +1,5 @@
 # Freemarker
-A Spring Boot template engine list example.
+A Spring Boot template engine list example for Udacity Java Nanodegree.
 
 ## Download
 
